@@ -34,4 +34,7 @@
 
 > When we simply use the ls command we only get the names of the files and folders inside the current directory. But when we use ls -la command we also get the information about the permissions allowed for each file and folder and even the hidden content if any.
 
+
+--> Task 2.4
+
 > (ls -l | head) The pipe symbol joins two commands in such a way that the output of the command on the left becomes the input for the command on the right side of the pipe. 
