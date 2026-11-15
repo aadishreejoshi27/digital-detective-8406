@@ -5,5 +5,5 @@
 > Git commit = takes everything in the staging area and creates a snapshot of the version history 
 > Git log = reads the repo's commit history and displays it 
 
---> Task 6.2
+--> Task 6.3
 
